@@ -1,4 +1,5 @@
 chatterbot-corpus
 ChatterBot
+django
 Flask
 gunicorn
