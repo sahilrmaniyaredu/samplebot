@@ -1,5 +1,5 @@
 chatterbot-corpus
-ChatterBot
+chatterbot==1.0.0
 django
 Flask
 gunicorn
