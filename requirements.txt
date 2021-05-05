@@ -1,3 +1,4 @@
-ChatterBot==1.0.0
-Flask==1.1.2
+chatterbot-corpus
+ChatterBot
+Flask
 gunicorn
